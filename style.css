@@ -42,7 +42,7 @@ body {
     width: max-content;
     background-color: var(--bg-main);
     border-radius: 30px;
-    padding: 20px;
+    padding: 22px;
     position: relative;
     overflow: hidden;
 }
